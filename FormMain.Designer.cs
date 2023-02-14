@@ -118,7 +118,7 @@
             this.referenceToolStripMenuItem});
             this.menuStripMain.Location = new System.Drawing.Point(0, 0);
             this.menuStripMain.Name = "menuStripMain";
-            this.menuStripMain.Size = new System.Drawing.Size(1162, 30);
+            this.menuStripMain.Size = new System.Drawing.Size(1162, 28);
             this.menuStripMain.TabIndex = 0;
             this.menuStripMain.Text = "menuStripMain";
             // 
@@ -130,7 +130,7 @@
             this.toolStripSeparator1,
             this.openToolStripMenuItem});
             this.fileToolStripMenuItem.Name = "fileToolStripMenuItem";
-            this.fileToolStripMenuItem.Size = new System.Drawing.Size(59, 26);
+            this.fileToolStripMenuItem.Size = new System.Drawing.Size(59, 24);
             this.fileToolStripMenuItem.Text = "Файл";
             // 
             // saveToolStripMenuItem
@@ -164,7 +164,7 @@
             this.referenceToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.aboutProgramToolStripMenuItem1});
             this.referenceToolStripMenuItem.Name = "referenceToolStripMenuItem";
-            this.referenceToolStripMenuItem.Size = new System.Drawing.Size(77, 26);
+            this.referenceToolStripMenuItem.Size = new System.Drawing.Size(77, 24);
             this.referenceToolStripMenuItem.Text = "Довідка";
             // 
             // aboutProgramToolStripMenuItem1
@@ -187,7 +187,7 @@
             this.panelControl.Controls.Add(this.flowLayoutPanelFigure);
             this.panelControl.Controls.Add(this.panelButtonsColor);
             this.panelControl.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panelControl.Location = new System.Drawing.Point(0, 30);
+            this.panelControl.Location = new System.Drawing.Point(0, 28);
             this.panelControl.Name = "panelControl";
             this.panelControl.Size = new System.Drawing.Size(1162, 110);
             this.panelControl.TabIndex = 1;
@@ -1033,9 +1033,9 @@
             this.pictureBoxDraw.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.pictureBoxDraw.Cursor = System.Windows.Forms.Cursors.Cross;
             this.pictureBoxDraw.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.pictureBoxDraw.Location = new System.Drawing.Point(0, 140);
+            this.pictureBoxDraw.Location = new System.Drawing.Point(0, 138);
             this.pictureBoxDraw.Name = "pictureBoxDraw";
-            this.pictureBoxDraw.Size = new System.Drawing.Size(1162, 556);
+            this.pictureBoxDraw.Size = new System.Drawing.Size(1162, 558);
             this.pictureBoxDraw.TabIndex = 2;
             this.pictureBoxDraw.TabStop = false;
             this.pictureBoxDraw.Click += new System.EventHandler(this.PictureBoxDraw_Click);

@@ -21,7 +21,7 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_BEFBDD672ED74334B542B14B78736572"
+        "MsmKey" = "8:_D5F94CA40A39464880D86FCB4C539562"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -68,6 +68,14 @@
             "PrerequisitesLocation" = "2:1"
             "Url" = "8:"
             "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.7.2"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.7.2 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.7.2"
+                    }
+                }
             }
         }
         "Release"
@@ -92,6 +100,14 @@
             "PrerequisitesLocation" = "2:1"
             "Url" = "8:"
             "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.7.2"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.7.2 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.7.2"
+                    }
+                }
             }
         }
     }
@@ -122,9 +138,9 @@
         }
         "File"
         {
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_BEFBDD672ED74334B542B14B78736572"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D5F94CA40A39464880D86FCB4C539562"
             {
-            "SourcePath" = "8:..\\..\\..\\Image Creation\\Icon.ico"
+            "SourcePath" = "8:..\\Resources\\Icon.ico"
             "TargetName" = "8:Icon.ico"
             "Tag" = "8:"
             "Folder" = "8:_BADE485488D14DB1A4EF6AB4CC6AF00A"
@@ -258,7 +274,7 @@
         "Keywords" = "8:"
         "ARPCOMMENTS" = "8:"
         "ARPURLINFOABOUT" = "8:"
-        "ARPPRODUCTICON" = "8:_BEFBDD672ED74334B542B14B78736572"
+        "ARPPRODUCTICON" = "8:_D5F94CA40A39464880D86FCB4C539562"
         "ARPIconIndex" = "3:0"
         "SearchPath" = "8:"
         "UseSystemSearchPath" = "11:TRUE"
@@ -372,7 +388,7 @@
             "Target" = "8:_7942F8DE05414588ABD8AA27218CE9E4"
             "Folder" = "8:_CE1AC38656B5461898F309B6396A5B5B"
             "WorkingFolder" = "8:_BADE485488D14DB1A4EF6AB4CC6AF00A"
-            "Icon" = "8:_BEFBDD672ED74334B542B14B78736572"
+            "Icon" = "8:_D5F94CA40A39464880D86FCB4C539562"
             "Feature" = "8:"
             }
             "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_F86103878B474165AB19EF5E9B8C2B32"
@@ -386,7 +402,7 @@
             "Target" = "8:_7942F8DE05414588ABD8AA27218CE9E4"
             "Folder" = "8:_AB20213A2FF34C44836E1FDE2E47AEEB"
             "WorkingFolder" = "8:_BADE485488D14DB1A4EF6AB4CC6AF00A"
-            "Icon" = "8:_BEFBDD672ED74334B542B14B78736572"
+            "Icon" = "8:_D5F94CA40A39464880D86FCB4C539562"
             "Feature" = "8:"
             }
         }
